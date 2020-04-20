@@ -1,0 +1,2 @@
+# Detecting-non-linear-variables-dependency-with-decision-tree-and-model-tree
+In this work we focus on temporal data and we propose a new approach aiming at making data more comprehensive. Our approach makes use of decision trees and model trees to detect non-linear dependencies between every variables, creating a dependency graph among the variables and displaying it through an interactive graphical interface easy to manipulate by the user. Our experiments were conducted on the Turbofan data set and showed the dependency relationships between its variables.
